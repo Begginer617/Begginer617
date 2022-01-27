@@ -1,2 +1,6 @@
-package PACKAGE_NAME;public class BaseClass {
+public class BaseClass {
+
+
+
+
 }
